@@ -1,0 +1,70 @@
+\documentclass[12pt]{article}
+
+% define the title
+\author{Tyler H. Cipriani\\
+  \texttt{tyler@tylercipriani.com}}
+\title{Proposal for the encoding of a banjo glyph}
+
+\begin{document}
+  \maketitle
+
+  % Create abstract named "Proposal"
+  \renewcommand{\abstractname}{Proposal}
+
+  \begin{abstract}
+    The Unicode Consortium proposes adding 1 UCS character to further the goal of completeness
+    for the set of glyphs represented on the SMP block: Miscellaneous Symbols and Pictographs\cite{scherer}.
+    The current ``emoji" block, set to establish interoperability of existing code-sets
+    with the UCS standard, is incomplete in several key areas. This addition of
+    a banjo glyph to an empty character space in this code block does nothing to
+    disrupt previously established goals of this block, but, rather, extends this
+    block to include a larger community of customers.
+
+    There is also a demonstrated demand for the proposed glyph among a community of
+    customers in bluegrass and banjo discussion groups in online communities.
+  \end{abstract}
+
+  \section{Proposed Character: Category and Description}
+    \begin{itemize}
+      \item \textbf{Category}: B.1-Specialized (small collection)
+      \item \textbf{Category}: Other Symbols (So)
+      \item \textbf{Block}: Miscellaneous Symbols and Pictographs
+      \item \textbf{Character Name}: `BANJO'
+      \item \textbf{Glyph}:  U+1F3DB
+    \end{itemize}
+
+    \subsection{Description of Usage}
+      Glyph would be used in any place it would be appropriate to represent 
+      banjo music or the invocation of what the idea of "banjo" represents.
+      This includes, but is not limited to, representing bluegrass music,
+      the earliest recorded popular music, early American music traditions, or
+      African music traditions (as this is the region from where the banjo is
+      believed to have originated)\cite{allen}
+
+  \section{Justifications; category and name}
+    \subsection{Name}
+    As glyph is a banjo, the name `BANJO' accurately represents, and is 
+    the accepted name for, that which is shown in the glyph.
+
+    \subsection{Category}
+    The category to which the symbol is assigned is part of the rational for
+    adding the glyph--set completeness. The block and general category already
+    house the glyphs for `MUSICAL KEYBOARD', `TRUMPET', `SAXOPHONE' and `VIOLIN'. 
+    `BANJO' would be added to this block and group for set completeness.
+
+  \section{Groups and `Community of Customers'}
+    \begin{enumerate}
+      \item \href{http://www.banjohangout.org/topic/278863}{Banjo Hangout discussion forum}
+    \end{enumerate}
+
+  \begin{thebibliography}{1}
+    \bibitem{allen} Greg Allen {\em The Banjo's Roots, Reconsidered } \
+      August 23, 2011: All Things Considered. NPR News.
+      \url{http://www.npr.org/2011/08/23/139880625/the-banjos-roots-reconsidered}
+
+    \bibitem{scherer} Markus Scherer {\em Proposal for Encoding Emoji Symbols } \
+      March 5, 2009.
+      \url{https://sites.google.com/site/unicodesymbols/Home/emoji-symbols/proposal-text}
+  \end{thebibliography}
+
+\end{document}
