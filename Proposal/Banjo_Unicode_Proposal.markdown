@@ -51,6 +51,10 @@ Groups and 'Community of Customers'
 
 1. [Banjo Hangout discussion forum](http://www.banjohangout.org/topic/278863)
 
+Proposed banjo glyph
+---
+![Banjo Glyph]((https://github.com/thcipriani/unicode-banjo/blob/master/banjo.png)
+
 Sources
 ---
 
