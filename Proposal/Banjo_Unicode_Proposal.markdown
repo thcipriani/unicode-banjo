@@ -53,7 +53,11 @@ Groups and 'Community of Customers'
 
 Proposed banjo glyph
 ---
-![Banjo Glyph](https://raw.github.com/thcipriani/unicode-banjo/master/banjo.png)
+![Banjo Glyph](https://raw.github.com/thcipriani/unicode-banjo/master/Proposal/banjo.png)
+
+Proposal summary
+----
+[link](https://raw.github.com/thcipriani/unicode-banjo/master/n4102-form.png)
 
 Sources
 ---
