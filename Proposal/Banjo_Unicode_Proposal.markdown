@@ -31,7 +31,7 @@ Proposed Character: Category and Description
   African music traditions (as this is the region from where the banjo is
   believed to have originated)<sup>2</sup>.
 
-Justifications; category and name
+Justifications: category and name
 ---
 
 Name:
