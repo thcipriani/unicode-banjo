@@ -57,7 +57,7 @@ Proposed banjo glyph
 
 Proposal summary
 ----
-[link](https://raw.github.com/thcipriani/unicode-banjo/master/n4102-form.png)
+[link](https://github.com/thcipriani/unicode-banjo/blob/master/n4102-form.pdf)
 
 Sources
 ---
